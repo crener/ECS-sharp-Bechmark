@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace ECS_Benchmark.Frameworks
 {
-    public static class LeoECSBenchmarks
+    public static class Constants
     {
-        public static void CreateEntities(int count)
-        {
-
-        }
+        public const float FakeDeltaTime = 1f / 60;
     }
 }

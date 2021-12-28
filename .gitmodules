@@ -1,0 +1,3 @@
+[submodule "LeoEcs/Source"]
+	path = LeoEcs/Source
+	url = https://github.com/Leopotam/ecs

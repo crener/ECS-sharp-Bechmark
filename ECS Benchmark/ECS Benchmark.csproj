@@ -13,4 +13,8 @@
     <PackageReference Include="DefaultEcs" Version="0.17.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\LeoEcs\LeoEcs.csproj" />
+  </ItemGroup>
+
 </Project>
