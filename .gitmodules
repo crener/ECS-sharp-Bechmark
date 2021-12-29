@@ -1,3 +1,6 @@
 [submodule "LeoEcs/Source"]
 	path = LeoEcs/Source
 	url = https://github.com/Leopotam/ecs
+[submodule "LeoEcsLite/Source"]
+	path = LeoEcsLite/Source
+	url = https://github.com/Leopotam/ecslite

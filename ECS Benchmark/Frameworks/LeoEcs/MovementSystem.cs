@@ -4,7 +4,6 @@ namespace ECS_Benchmark.Frameworks.LeoEcs;
 
 public struct MovementSystem : IEcsRunSystem
 {
-    public EcsWorld? World;
     public EcsFilter<PositionComponent, DirectionComponent>? Filter;
 
     public void Run()

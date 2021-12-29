@@ -7,20 +7,26 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECS Benchmark", "ECS Benchm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeoEcs", "LeoEcs\LeoEcs.csproj", "{40945853-D061-4357-8F70-A8F69C9E0FE1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeoEcsLite", "LeoEcsLite\LeoEcsLite.csproj", "{DC6CADFC-6993-4057-AEBC-DC184C56EA93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A4F2200A-1549-4390-ABB2-832E92BFEE77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A4F2200A-1549-4390-ABB2-832E92BFEE77}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A4F2200A-1549-4390-ABB2-832E92BFEE77}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A4F2200A-1549-4390-ABB2-832E92BFEE77}.Release|Any CPU.Build.0 = Release|Any CPU
-		{40945853-D061-4357-8F70-A8F69C9E0FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{40945853-D061-4357-8F70-A8F69C9E0FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{40945853-D061-4357-8F70-A8F69C9E0FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{40945853-D061-4357-8F70-A8F69C9E0FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4F2200A-1549-4390-ABB2-832E92BFEE77}.Debug|x64.ActiveCfg = Debug|x64
+		{A4F2200A-1549-4390-ABB2-832E92BFEE77}.Debug|x64.Build.0 = Debug|x64
+		{A4F2200A-1549-4390-ABB2-832E92BFEE77}.Release|x64.ActiveCfg = Release|x64
+		{A4F2200A-1549-4390-ABB2-832E92BFEE77}.Release|x64.Build.0 = Release|x64
+		{40945853-D061-4357-8F70-A8F69C9E0FE1}.Debug|x64.ActiveCfg = Debug|x64
+		{40945853-D061-4357-8F70-A8F69C9E0FE1}.Debug|x64.Build.0 = Debug|x64
+		{40945853-D061-4357-8F70-A8F69C9E0FE1}.Release|x64.ActiveCfg = Release|x64
+		{40945853-D061-4357-8F70-A8F69C9E0FE1}.Release|x64.Build.0 = Release|x64
+		{DC6CADFC-6993-4057-AEBC-DC184C56EA93}.Debug|x64.ActiveCfg = Debug|x64
+		{DC6CADFC-6993-4057-AEBC-DC184C56EA93}.Debug|x64.Build.0 = Debug|x64
+		{DC6CADFC-6993-4057-AEBC-DC184C56EA93}.Release|x64.ActiveCfg = Release|x64
+		{DC6CADFC-6993-4057-AEBC-DC184C56EA93}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

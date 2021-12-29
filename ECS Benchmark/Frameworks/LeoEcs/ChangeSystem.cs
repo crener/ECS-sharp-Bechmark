@@ -1,11 +1,9 @@
-﻿using DefaultEcs;
-using Leopotam.Ecs;
+﻿using Leopotam.Ecs;
 
 namespace ECS_Benchmark.Frameworks.LeoEcs;
 
 public class ChangeSystem : IEcsRunSystem
 {
-    public World? World;
     public EcsFilter<ModificationComponent>? Filter;
 
     public void Run()
